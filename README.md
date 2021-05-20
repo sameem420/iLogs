@@ -1,1 +1,1 @@
-# ElectroMart
+# iLogs - Note Taking App
