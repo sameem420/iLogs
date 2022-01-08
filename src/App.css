@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Julius+Sans+One&display=swap');
+
+.brand-logo {
+  font-family: 'Press Start 2P', cursive;
+  font-size: 2.5em !important;
+}
+body {
+  font-family: 'Julius Sans One', sans-serif;
+  background-image: radial-gradient( circle 993px at 0.5% 50.5%,  rgba(137,171,245,0.37) 0%, rgb(229, 232, 240) 100.2% );
+}
+form {
+  padding: 10px 20px 10px 20px;
+  margin: 10px;
+}
+.note {
+  padding: 10px;
+  margin-bottom: 30px;
+}
+.notesList {
+  padding: 20px;
+  margin-top: 5px;
+}
